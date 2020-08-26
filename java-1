@@ -1,0 +1,12 @@
+public class vehiculos {
+//attributos
+String color;
+String marca;
+int km;
+public static void main(String [] arg){
+    vehiculos auto1 = new vehiculos();
+    auto1.color = "gris";
+    //display
+    System.out.println("el color es:"+auto1.color);
+}
+}
