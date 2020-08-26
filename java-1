@@ -5,7 +5,7 @@ String marca;
 int km;
 public static void main(String [] arg){
     vehiculos auto1 = new vehiculos();
-    auto1.color = "gris";
+    auto1.color = "gris" 11111111111
     //display
     System.out.println("el color es:"+auto1.color);
 }
